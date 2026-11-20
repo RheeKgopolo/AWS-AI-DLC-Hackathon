@@ -1,0 +1,16 @@
+{
+  "version": "v1",
+  "hooks": [
+    {
+      "name": "Security scan on dependency or Python changes",
+      "trigger": "PostFileSave",
+      "description": "Runs pip-audit, bandit, npm audit and detect-secrets when dependencies or the Python app files are saved. No credits used: it is a shell command, not an agent action.",
+      "matcher": "(requirements[^/]*\\.txt|package\\.json|app\\.py|tools\\.py)$",
+      "action": {
+        "type": "command",
+        "command": "bash scripts/security-scan.sh",
+        "timeout": 180
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+company,segment,city,market,current_tier,local_decision_authority,offering_fit,trigger_signals,deal_size_fit,relationship_warmth,persona_confidence,target_persona,source
+Raymond James,Digital Wealth,St. Petersburg FL,Tampa Bay,Tier 1,Yes,High,AI initiative; data governance program; cloud migration,Medium,Known,High,CTO; VP Data and Analytics,"Public company, illustrative signals"
+Franklin Templeton,Digital Wealth,St. Petersburg FL,Tampa Bay,Tier 1,Partial,High,AI initiative; data platform modernization,Medium,Known,High,VP Technology; VP Data and Analytics,"Public company, illustrative signals"
+Citi,Banking,Tampa FL,Tampa Bay,Tier 1,Partial,Medium,regulatory reporting pressure,Low,Cold,Medium,VP Technology; Head of Data Governance,"Public company, illustrative signals"
+JPMorgan Chase,Banking,Tampa FL,Tampa Bay,Tier 1,No,Medium,AI initiative,Low,Cold,Low,VP Engineering,"Public company, illustrative signals"
+USAA,Banking,Tampa FL,Tampa Bay,Tier 1,No,Medium,cloud migration,Low,Known,Medium,VP Technology,"Public company, illustrative signals"
+Northern Trust,Digital Wealth,Tampa FL,Tampa Bay,Tier 2,Partial,Medium,data platform modernization,Medium,Cold,Medium,VP Technology; Head of Data,"Public company, illustrative signals"
+Bank of America,Banking,Tampa FL,Tampa Bay,Tier 2,No,Low,,Low,Cold,Low,VP Technology,"Public company, illustrative signals"
+MetLife,Insurance,Tampa FL,Tampa Bay,Tier 2,Partial,Medium,data governance program,Medium,Cold,Medium,VP Technology; Head of Data,"Public company, illustrative signals"
+Suncoast Credit Union,Credit Union,Tampa FL,Tampa Bay,Tier 2,Yes,High,new CDO; NCUA exam findings; data governance program,High,Warm,High,CTO; VP Digital,"Public company, illustrative signals"
+GTE Financial,Credit Union,Tampa FL,Tampa Bay,Tier 2,Yes,High,core banking migration; AI initiative,High,Known,High,CTO; VP Technology,"Public company, illustrative signals"
+Bankers Financial Corporation,Insurance,St. Petersburg FL,Tampa Bay,Tier 2,Yes,Medium,cloud migration; data governance program,High,Known,High,CIO; VP Technology,"Public company, illustrative signals"
+BayFirst Financial,FinTech,St. Petersburg FL,Tampa Bay,Tier 2,Yes,High,digital banking launch; AI initiative; data hiring,High,Warm,Medium,CTO; VP Digital Banking,"Public company, illustrative signals"
+Bayshore Robo Advisory,Digital Wealth,Tampa FL,Tampa Bay,Tier 3,Yes,Low,,Medium,Cold,Low,CTO,Fictitious
+Gulfside Payments,FinTech,Tampa FL,Tampa Bay,Tier 3,Yes,High,Series B funding; data hiring,Medium,Known,Medium,CTO; VP Engineering,Fictitious
+Harbor Ledger Labs,FinTech,St. Petersburg FL,Tampa Bay,Tier 3,Yes,Medium,AI initiative,Medium,Cold,Medium,CTO,Fictitious
+Clearwater Lending Cloud,FinTech,Clearwater FL,Tampa Bay,Tier 3,Yes,Low,,Low,Cold,Low,VP Engineering,Fictitious
+Lakeland Community Credit Union,Credit Union,Lakeland FL,Tampa Bay,Tier 3,Yes,Medium,,High,Cold,Low,VP Technology,Fictitious
+Palmetto Pay,FinTech,Miami FL,Florida Other,Tier 3,No,Medium,AI initiative,Medium,Cold,Low,CTO,Fictitious
+Atlantic Wealth Partners,Digital Wealth,Charlotte NC,Out of Market,Tier 3,No,Low,,Medium,Cold,Low,VP Technology,Fictitious
+Magnolia Regional Bank,Banking,Atlanta GA,Out of Market,Tier 3,No,Low,,Low,Cold,Low,CIO,Fictitious
